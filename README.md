@@ -14,8 +14,11 @@ Play here!
 
 ---
 
+![img](https://github.com/lhydave/BounceBall/blob/master/ScreenShot.jpg)
+
 ## License
 
 ---
 
-Bounce Ball is licensed under the MIT license.
+Bounce Ball is licensed under the [MIT license](https://github.com/lhydave/BounceBall/blob/master/LICENSE).
+
