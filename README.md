@@ -1,6 +1,6 @@
 # Bounce Ball
 
-This is a very simple casual game. I wrote this game for learning and practicing web progammings. I was inspired by the game listed on the [wesane game](http://www.wesane.com/index.php/games)  which alleviates my distress in the time of preparing the final exams. The code partially refers to [2048](https://github.com/gabrielecirulli/2048), which gave me a good example for animations and interactions.
+This is a very simple casual game. I wrote this game for learning and practising web progammings. I was inspired by the game listed on the [wesane game](http://www.wesane.com)  which alleviates my distress in the time of preparing the final exams. The code partially refers to [2048](https://github.com/gabrielecirulli/2048), which gave me a good example for animations and interactions.
 
 Play [here](http://lhydave.github.io/BounceBall/)!
 
